@@ -1,2 +1,2 @@
 # ABAP-Different-Tasks
-Simple Tasks written in ABAP 
+Tasks written in ABAP 
